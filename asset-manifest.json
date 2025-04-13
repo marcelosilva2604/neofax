@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aplicativo-neofax/static/css/main.e4280950.css",
+    "main.js": "/aplicativo-neofax/static/js/main.e58ac8e7.js",
+    "static/js/453.13de6245.chunk.js": "/aplicativo-neofax/static/js/453.13de6245.chunk.js",
+    "index.html": "/aplicativo-neofax/index.html",
+    "main.e4280950.css.map": "/aplicativo-neofax/static/css/main.e4280950.css.map",
+    "main.e58ac8e7.js.map": "/aplicativo-neofax/static/js/main.e58ac8e7.js.map",
+    "453.13de6245.chunk.js.map": "/aplicativo-neofax/static/js/453.13de6245.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4280950.css",
+    "static/js/main.e58ac8e7.js"
+  ]
+}
